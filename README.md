@@ -6,5 +6,7 @@ This is a repository to gain familiarity with git and Github.
 * git add
 * git commit -m
 * git push
-* git checkout
-* git git push --set-upstream origin develop
+* git checkout -b
+* git branch
+* git status
+* push --set-upstream origin develop
